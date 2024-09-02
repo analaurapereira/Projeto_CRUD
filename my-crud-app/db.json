@@ -1,0 +1,44 @@
+{
+  "players": [
+    {
+      "id": "4e27",
+      "name": "Rosamaria",
+      "team": "Airbeen",
+      "number": "7",
+      "country": "Japan",
+      "origin": "Brasil"
+    },
+    {
+      "id": "c752",
+      "name": "Julia B",
+      "team": "THY",
+      "number": "17",
+      "country": "Turcky",
+      "origin": "Brasil"
+    },
+    {
+      "id": "f93d",
+      "name": "Julia Kudies",
+      "team": "Minas Tênis",
+      "number": "8",
+      "country": "Brasil",
+      "origin": "Brasil"
+    },
+    {
+      "id": "d93d",
+      "name": "Gabi",
+      "team": "Vakifbank",
+      "number": "10",
+      "country": "Turkey",
+      "origin": "Brasil"
+    },
+    {
+      "id": "0ffe",
+      "name": "Hande Baladin",
+      "team": "Eczacibasci",
+      "number": "7",
+      "country": "Turkey",
+      "origin": "Turkey"
+    }
+  ]
+}
